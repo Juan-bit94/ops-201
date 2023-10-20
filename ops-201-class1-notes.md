@@ -33,6 +33,9 @@
 - Click the more options link to open the backup options page.
 - This page allows you to set how often files are backed up, how long they are kept, and what will get backed up.
 - To start the backup immediately, click the backup now button.
+## How do you start a System Restore from the command prompt?
+- From the command prompt type the following command “rstrui.exe” and then press enter.
+- The system restore wizard will open immediately, just follow the instructions on the screen to complete the restore process.
 ## Verifying and testing Backups
 - After backups, you need to complete one more step-verifying the backup.
 - You can use backup and data recovery software to verify a backup. Two free softwares to use are Macrium Reflect and EaseUS Todo Backup.
