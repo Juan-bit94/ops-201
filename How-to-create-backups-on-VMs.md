@@ -16,7 +16,10 @@
 - The next screen is the final one in the export process, it allows you to attach some identifying information and specifics to your file before packing it up.  Generally you add a name and description. Lastly click on the “Export” button to start the export process. 
 VirtualBox will process your VM into an OVA file.
 ## What dictates a "good baseline" for a Windows 10 VM?
--
+- A good baseline for a Windows 10 VM is decided based on the needs of the individual user and the purpose of the virtual machine. In other words, the virtual machine's baseline must align with the purpose and goals of the individual or organization that is setting it up.
+- Criteria to consider for a good baseline ranges from performance metrics, resource utilization, and even user satisfaction to name a few.
+-  If the individual knows the purpose or workload that the vm will be expected to perform, then a good baseline can be established by monitoring the vm and if applicable compare it to industry or organizational standards.
+- If there is nothing to compare it to, then document the monitoring results, and update documentation whenever there is a change in software, hardware, and user pattern on the vm. The documentation should be used as a reference point going forward to compare configurations, metrics, and any particulars. 
 # In Windows 10, create a System Restore point and perform a Restore operation.
 ## How to use system restore in windows 10 OS:
 - A system restore will ‘undo’ major changes in windows os. It is a useful utility to fix major problems in windows. The windows system restore tool lets you revert to a previous software, registry, and driver configuration called a restore point. System restore is a great tool to use early in the troubleshooting process.
